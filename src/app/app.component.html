@@ -1,0 +1,8 @@
+<div class="container">
+  <form #myForm="ngForm">
+
+
+    <button type="button" class="btn btn-primary" (click)="addUser(myForm.value)" *ngIf="!isEdit">Submit</button>
+    <button type="button" class="btn btn-info" *ngIf="isEdit" (click)="updateUser()">Update</button>
+  </form>
+</div>

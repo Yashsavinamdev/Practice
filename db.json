@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Kamlesh Mishra",
+      "mobile": "789456123",
+      "email": "kmishra@gmail.com",
+      "password": "45433436",
+      "id": 1
+    },
+    {
+      "name": "raman",
+      "mobile": "7894722236",
+      "email": "ramanj@gmail.com",
+      "password": "45433436thtr",
+      "id": 2
+    },
+    {
+      "name": "suman",
+      "mobile": "515443513",
+      "email": "rinreib@gmail.com",
+      "password": "ggfngfnf",
+      "id": 3
+    }
+  ]
+}
